@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Xgates Computers is a family run business, established in 2004 by Nigel Hempsall, we carry out repairs and sales to both Notebooks and desktop computers, including building custom machines to your needs. \_Originally all work was undertaken solely by Nigel, but as his reputation for quality workmanship, excellent customer care and fair pricing grew, so did the business. By 2009 Xgates Computers needed to expand into much larger premises, with a custom built Service Area and Store Front."
-datePublished: '2016-03-15T15:41:09.526Z'
-dateModified: '2016-03-15T15:40:37.064Z'
+datePublished: '2016-03-15T16:02:53.922Z'
+dateModified: '2016-03-15T15:55:39.491Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-09-xgates-computers-is-a-family-run-business-established-in-20.md
