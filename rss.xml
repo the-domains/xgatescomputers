@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Xgatescomputers]]></title>
+        <description><![CDATA[Xgatescomputers]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Mar 2016 15:35:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://xgatescomputers.co.uk/images/Xgates%20Web%20Banner.png">]]></description>
+            <link>undefined805cbdaf-6923-43e2-9461-b419bbc59a0c/index.html</link>
+            <guid isPermaLink="false">805cbdaf-6923-43e2-9461-b419bbc59a0c</guid>
+            <pubDate>Tue, 15 Mar 2016 15:35:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
