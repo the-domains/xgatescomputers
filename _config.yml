@@ -1,6 +1,6 @@
 name: Xgatescomputers
 favicon: null
-layout_spectrum: 0.07101090508513153
+layout_spectrum: 0.9991
 typography_spectrum: 0.38716867566108704
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.5369644041638821
+  brandStrength: 0.5625
   lightness: 0.4373913104645908
   saturation: 0.0717961648479104
   rhythmicContrast: 0.5409585253801197
