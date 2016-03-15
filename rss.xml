@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Xgatescomputers]]></title>
         <description><![CDATA[Xgatescomputers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/xgatescomputers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 16:02:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 16:02:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/xgatescomputers/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Laptop Repairs]]></title>
+            <description><![CDATA[<article><h1>Laptop Repairs</h1><p>Laptops never breakdown at a convenient time. That's why when the worst happens, you need your machine repaired and returned as soon as possible. Xgates Computers has a dedicated Laptop Hardware Repair Team, meaning our technicians can get straight to work on your laptop.</p></article>]]></description>
+            <link>https://thegrid.ai/xgatescomputers/laptops-never-breakdown-at-a-convenient-time-thats-why-whe/index.html</link>
+            <guid isPermaLink="false">f024feb4-6676-41e4-b57c-3d3e65e217b1</guid>
+            <pubDate>Tue, 15 Mar 2016 16:02:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bullguard Offer]]></title>
             <description><![CDATA[<article><h1>Bullguard Offer</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a92dc95f7f87fa17d19bd3f58584d58ae11f0fc5.jpg"></article>]]></description>
-            <link>undefineda6fcbab0-98fd-4dcb-8110-1f4774681e25/index.html</link>
+            <link>https://thegrid.ai/xgatescomputers/a6fcbab0-98fd-4dcb-8110-1f4774681e25/index.html</link>
             <guid isPermaLink="false">a6fcbab0-98fd-4dcb-8110-1f4774681e25</guid>
             <pubDate>Tue, 15 Mar 2016 16:02:38 GMT</pubDate>
         </item>
